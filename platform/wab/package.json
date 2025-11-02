@@ -439,7 +439,7 @@
     "ts-adt": "^2.1.2",
     "ts-failable": "^0.6.1",
     "tunnel-rat": "^0.1.2",
-    "typeorm": "0.2.45",
+    "typeorm": "0.3.26",
     "typeorm-naming-strategies": "^4.1.0",
     "typescript": "5.7.3",
     "typia": "^3.8.1",
