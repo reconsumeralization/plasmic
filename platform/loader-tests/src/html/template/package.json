@@ -2,7 +2,7 @@
   "dependencies": {
     "esbuild": "^0.12.24",
     "esbuild-register": "^3.0.0",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
