@@ -88,7 +88,7 @@
     "internal-react-slick": "link:./internal_pkgs/react-slick",
     "isomorphic-fetch": "^3.0.0",
     "jquery": "^3.7.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "marked": "^9.1.1",
     "md5": "^2.3.0",
     "nanoid": "^5.0.2",
