@@ -11,7 +11,7 @@
     "i18n-compile": "lingui compile"
   },
   "dependencies": {
-    "@lingui/cli": "^3.16.1",
+    "@lingui/cli": "^3.17.0",
     "@lingui/react": "^3.16.1",
     "@next/font": "13.1.5",
     "@plasmicapp/cli": "^0.1.203",
