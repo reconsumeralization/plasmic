@@ -66,7 +66,7 @@
     "@plasmicpkgs/wordpress": "^0.0.13",
     "ant-design-pro-form-stub": "link:./internal_pkgs/ant-design-pro-form-stub",
     "antd": "^5.7.3",
-    "axios": "^1.12.2",
+    "axios": "^1.13.5",
     "chart.js": "^4.2.1",
     "copy-to-clipboard": "^3.3.3",
     "dayjs": "^1.11.10",
