@@ -18,7 +18,7 @@
   "dependencies": {
     "@plasmicapp/loader-gatsby": "^1.0.397",
     "@plasmicpkgs/plasmic-cms": "^0.0.121",
-    "gatsby": "^4.21.1",
+    "gatsby": "^4.22.0",
     "gatsby-plugin-react-helmet": "^5.21.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
