@@ -309,7 +309,7 @@
     "jquery-serializejson": "^2.9.0",
     "js-cookie": "^3.0.1",
     "js-string-escape": "^1.0.1",
-    "jsdom": "^22.1.0",
+    "jsdom": "^23.0.0",
     "jsonrepair": "^2.2.1",
     "jsonwebtoken": "9.0.3",
     "lodash": "^4.17.23",
