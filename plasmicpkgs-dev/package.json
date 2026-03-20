@@ -19,7 +19,7 @@
     "@plasmicpkgs/plasmic-strapi": "0.1.197",
     "@plasmicpkgs/strapi": "0.0.16",
     "@plasmicpkgs/wordpress": "0.0.16",
-    "next": "^15.5.9",
+    "next": "^16.1.7",
     "react": "^19",
     "react-dom": "^19"
   },
