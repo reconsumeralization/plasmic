@@ -40,7 +40,7 @@
     "findup-sync": "^4.0.0",
     "glob": "^7.1.6",
     "inquirer": "^8.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "semver": "^7.3.5",
     "upath": "^2.0.1",
     "update-notifier": "^5.1.0",
