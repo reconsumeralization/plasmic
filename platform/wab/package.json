@@ -400,7 +400,7 @@
     "transformation-matrix": "^2.16.1",
     "ts-adt": "^2.1.2",
     "tunnel-rat": "^0.1.2",
-    "typeorm": "0.2.45",
+    "typeorm": "0.3.26",
     "typeorm-naming-strategies": "^4.1.0",
     "typescript": "7.0.2",
     "underscore.string": "~3.3.6",
