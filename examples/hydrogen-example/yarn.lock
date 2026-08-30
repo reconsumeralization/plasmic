@@ -844,10 +844,10 @@
     web-streams-polyfill "^3.2.0"
     worktop "^0.7.3"
 
-"@shopify/hydrogen@^1.6.6":
-  version "1.6.6"
-  resolved "https://registry.yarnpkg.com/@shopify/hydrogen/-/hydrogen-1.6.6.tgz#61fa87cc3e350733d149d7b9f2a5b61fe884f4e1"
-  integrity sha512-6cns3d9zU7T9zaNLU4dKVb2zcFvMjtaEIOU7r1mWOjoJnb5siMOX1/WaQySQb4TIdrZnLTbOdO5imHKyUQgZWA==
+"@shopify/hydrogen@^1.7.4":
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/@shopify/hydrogen/-/hydrogen-1.7.4.tgz#16b684eebecaef4beb3aaeea2f521330424be3b2"
+  integrity sha512-Z6MJ2X42LFfvOb+ruMkdztHtmkrDHRL9ETvqzUD5BQwB4nUTzZVVn+ESWCRLAPeh/Gi4hHTxjDXHPb96tJ+6rg==
   dependencies:
     "@vitejs/plugin-react" "^1.3.0"
     "@xstate/fsm" "^2.0.0"
@@ -858,7 +858,7 @@
     connect "^3.7.0"
     es-module-lexer "^0.10.0"
     fast-glob "^3.2.11"
-    graphql "^16.3.0"
+    graphql "^16.8.1"
     graphql-tag "^2.12.6"
     history "^5.3.0"
     kolorist "^1.5.1"
@@ -869,7 +869,7 @@
     react-helmet-async "^1.3.0"
     serve-static "^1.15.0"
     set-cookie-parser "^2.5.0"
-    undici "^5.8.2"
+    undici "^6.13.0"
     uuid "^8.3.2"
     vite-plugin-inspect "^0.3.6"
     web-streams-polyfill "^3.2.0"
@@ -2709,6 +2709,11 @@ graphql@^16.3.0:
   version "16.6.0"
   resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.6.0.tgz#c2dcffa4649db149f6282af726c8c83f1c7c5fdb"
   integrity sha512-KPIBPDlW7NxrbT/eh4qPXz5FiFdL5UbaA0XUNz2Rp3Z3hqBSkbj0GVjwFDztsWVauZUWsbKHgMg++sk8UX0bkw==
+
+graphql@^16.8.1:
+  version "16.12.0"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.12.0.tgz#28cc2462435b1ac3fdc6976d030cef83a0c13ac7"
+  integrity sha512-DKKrynuQRne0PNpEbzuEdHlYOMksHSUI8Zc9Unei5gTsMNA2/vMpoMz/yKba50pejK56qj98qM0SjYxAKi13gQ==
 
 h3@0.7.21:
   version "0.7.21"
@@ -4732,12 +4737,17 @@ undici@5.9.1:
   resolved "https://registry.yarnpkg.com/undici/-/undici-5.9.1.tgz#fc9fd85dd488f965f153314a63d9426a11f3360b"
   integrity sha512-6fB3a+SNnWEm4CJbgo0/CWR8RGcOCQP68SF4X0mxtYTq2VNN8T88NYrWVBAeSX+zb7bny2dx2iYhP3XHi00omg==
 
-undici@^5.5.1, undici@^5.8.2:
+undici@^5.5.1:
   version "5.16.0"
   resolved "https://registry.yarnpkg.com/undici/-/undici-5.16.0.tgz#6b64f9b890de85489ac6332bd45ca67e4f7d9943"
   integrity sha512-KWBOXNv6VX+oJQhchXieUznEmnJMqgXMbs0xxH2t8q/FUAWSJvOSr/rMaZKnX5RIVq7JDn0JbP4BOnKG2SGXLQ==
   dependencies:
     busboy "^1.6.0"
+
+undici@^6.13.0:
+  version "6.23.0"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-6.23.0.tgz#7953087744d9095a96f115de3140ca3828aff3a4"
+  integrity sha512-VfQPToRA5FZs/qJxLIinmU59u0r7LXqoJkCzinq3ckNJp3vKEh7jTWN589YQ5+aoAC/TGRLyJLCPKcLQbM8r9g==
 
 unfetch@^4.2.0:
   version "4.2.0"
