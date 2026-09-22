@@ -340,7 +340,7 @@
     "react-helmet": "^6.1.0",
     "react-icons": "^3.10.0",
     "react-inspector": "^5.1.1",
-    "react-joyride": "^2.9.3",
+    "react-joyride": "^3.0.0",
     "react-keyed-flatten-children": "^1.3.0",
     "react-markdown": "8.0.1",
     "react-monaco-editor": "0.55.0",
